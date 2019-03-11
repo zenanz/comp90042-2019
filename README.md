@@ -1,4 +1,5 @@
 # COMP90042-2019  Workshop
+
 COMP90042 Web Search and Text Analysis (2019 S1)
 See [Github Pages](https://zenanz.github.io/comp90042-2019)
 
