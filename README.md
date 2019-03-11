@@ -1,5 +1,4 @@
-# comp90042-2019
-# Workshop Slides
+# COMP90042-2019  Workshop
 COMP90042 Web Search and Text Analysis (2019 S1)
 
 Week|Slides 
