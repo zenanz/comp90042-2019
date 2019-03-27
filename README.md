@@ -10,3 +10,4 @@ Week|Slides
 2|[WSTA_N1_preprocessing.ipynb](ipynb/WSTA_N1_preprocessing.ipynb)
 2|[WSTA_N2_information_retrieval.ipynb](ipynb/WSTA_N2_information_retrieval.ipynb)
 3|[COMP90042_Workshop_Week3.pdf](slides/COMP90042_Workshop_Week3.pdf)
+4|[COMP90042_Workshop_Week4.pdf](slides/COMP90042_Workshop_Week4.pdf)
