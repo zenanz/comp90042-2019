@@ -1,7 +1,9 @@
 # COMP90042-2019  Workshop
 
-COMP90042 Web Search and Text Analysis (2019 S1)
-See [Github Pages](https://zenanz.github.io/comp90042-2019)
+COMP90042 Web Search and Text Analysis (2019 S1). See [Github Pages](https://zenanz.github.io/comp90042-2019)
+
+
+## Slides
 
 Week|Slides 
 ----|--------------------------------
@@ -9,6 +11,8 @@ Week|Slides
 3|[COMP90042_Workshop_Week3.pdf](slides/COMP90042_Workshop_Week3.pdf)
 4|[COMP90042_Workshop_Week4.pdf](slides/COMP90042_Workshop_Week4.pdf)
 5|[COMP90042_Workshop_Week5.pdf](slides/COMP90042_Workshop_Week5.pdf)
+
+## Notebooks
 
 Week|Notebooks
 ----|--------------------------------
