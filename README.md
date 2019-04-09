@@ -11,6 +11,7 @@ Week|Slides
 3|[COMP90042_Workshop_Week3.pdf](slides/COMP90042_Workshop_Week3.pdf)
 4|[COMP90042_Workshop_Week4.pdf](slides/COMP90042_Workshop_Week4.pdf)
 5|[COMP90042_Workshop_Week5.pdf](slides/COMP90042_Workshop_Week5.pdf)
+6|[COMP90042_Workshop_Week6.pdf](slides/COMP90042_Workshop_Week6.pdf)
 
 ## Notebooks
 
@@ -21,3 +22,7 @@ Week|Notebooks
 2|[WSTA_N2_Demo.ipynb](ipynb/WSTA_N2_Demo.ipynb)
 5|[WSTA_N7_text_classification-andreas.ipynb](ipynb/WSTA_N7_text_classification-andreas.ipynb)
 5|[WSTA_N8_n-gram_language_models.ipynb](ipynb/WSTA_N8_n-gram_language_models.ipynb)
+6|[WSTA_N9-10_Demo.ipynb](WSTA_N9-10_Demo.ipynb)
+6|[WSTA_N9_lexical_semantics.ipynb](WSTA_N9_lexical_semantics.ipynb)
+6|[WSTA_N10_distributional_semantics.ipynb](WSTA_N10_distributional_semantics.ipynb)
+
