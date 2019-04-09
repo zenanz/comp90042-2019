@@ -22,7 +22,7 @@ Week|Notebooks
 2|[WSTA_N2_Demo.ipynb](ipynb/WSTA_N2_Demo.ipynb)
 5|[WSTA_N7_text_classification-andreas.ipynb](ipynb/WSTA_N7_text_classification-andreas.ipynb)
 5|[WSTA_N8_n-gram_language_models.ipynb](ipynb/WSTA_N8_n-gram_language_models.ipynb)
-6|[WSTA_N9-10_Demo.ipynb](WSTA_N9-10_Demo.ipynb)
-6|[WSTA_N9_lexical_semantics.ipynb](WSTA_N9_lexical_semantics.ipynb)
-6|[WSTA_N10_distributional_semantics.ipynb](WSTA_N10_distributional_semantics.ipynb)
+6|[WSTA_N9-10_Demo.ipynb](ipynb/WSTA_N9-10_Demo.ipynb)
+6|[WSTA_N9_lexical_semantics.ipynb](ipynb/WSTA_N9_lexical_semantics.ipynb)
+6|[WSTA_N10_distributional_semantics.ipynb](ipynb/WSTA_N10_distributional_semantics.ipynb)
 
