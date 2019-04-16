@@ -12,6 +12,7 @@ Week|Slides
 4|[COMP90042_Workshop_Week4.pdf](slides/COMP90042_Workshop_Week4.pdf)
 5|[COMP90042_Workshop_Week5.pdf](slides/COMP90042_Workshop_Week5.pdf)
 6|[COMP90042_Workshop_Week6.pdf](slides/COMP90042_Workshop_Week6.pdf)
+7|[COMP90042_Workshop_Week7.pdf](slides/COMP90042_Workshop_Week7.pdf)
 
 ## Notebooks
 
@@ -25,4 +26,4 @@ Week|Notebooks
 6|[WSTA_N9-10_Demo.ipynb](ipynb/WSTA_N9-10_Demo.ipynb)
 6|[WSTA_N9_lexical_semantics.ipynb](ipynb/WSTA_N9_lexical_semantics.ipynb)
 6|[WSTA_N10_distributional_semantics.ipynb](ipynb/WSTA_N10_distributional_semantics.ipynb)
-
+7|[WSTA_N11_part_of_speech_tagging.ipynb](ipynb/WSTA_N11_part_of_speech_tagging.ipynb)
