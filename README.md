@@ -13,6 +13,7 @@ Week|Slides
 5|[COMP90042_Workshop_Week5.pdf](slides/COMP90042_Workshop_Week5.pdf)
 6|[COMP90042_Workshop_Week6.pdf](slides/COMP90042_Workshop_Week6.pdf)
 7|[COMP90042_Workshop_Week7.pdf](slides/COMP90042_Workshop_Week7.pdf)
+8|[COMP90042_Workshop_Week8.pdf](slides/COMP90042_Workshop_Week8.pdf)
 
 ## Notebooks
 
