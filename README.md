@@ -15,6 +15,7 @@ Week|Slides
 7|[COMP90042_Workshop_Week7.pdf](slides/COMP90042_Workshop_Week7.pdf)
 8|[COMP90042_Workshop_Week8.pdf](slides/COMP90042_Workshop_Week8.pdf)
 9|[COMP90042_Workshop_Week9.pdf](slides/COMP90042_Workshop_Week9.pdf)
+10|[COMP90042_Workshop_Week10.pdf](slides/COMP90042_Workshop_Week10.pdf)
 
 ## Notebooks
 
@@ -30,3 +31,6 @@ Week|Notebooks
 6|[WSTA_N10_distributional_semantics.ipynb](ipynb/WSTA_N10_distributional_semantics.ipynb)
 7|[WSTA_N11_part_of_speech_tagging.ipynb](ipynb/WSTA_N11_part_of_speech_tagging.ipynb)
 9|[WSTA_N15_hidden_markov_models.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N15_hidden_markov_models.ipynb)
+10|[WSTA_N17_context-free_grammars.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N17_context-free_grammars.ipynb)
+10|[WSTA_N18_probabilistic_parsing.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N18_probabilistic_parsing.ipynb)
+
