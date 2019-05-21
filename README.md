@@ -16,6 +16,7 @@ Week|Slides
 8|[COMP90042_Workshop_Week8.pdf](slides/COMP90042_Workshop_Week8.pdf)
 9|[COMP90042_Workshop_Week9.pdf](slides/COMP90042_Workshop_Week9.pdf)
 10|[COMP90042_Workshop_Week10.pdf](slides/COMP90042_Workshop_Week10.pdf)
+11|[COMP90042_Workshop_Week11.pdf](slides/COMP90042_Workshop_Week11.pdf)
 
 ## Notebooks
 
