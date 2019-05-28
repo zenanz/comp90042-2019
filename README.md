@@ -17,6 +17,7 @@ Week|Slides
 9|[COMP90042_Workshop_Week9.pdf](slides/COMP90042_Workshop_Week9.pdf)
 10|[COMP90042_Workshop_Week10.pdf](slides/COMP90042_Workshop_Week10.pdf)
 11|[COMP90042_Workshop_Week11.pdf](slides/COMP90042_Workshop_Week11.pdf)
+12|[COMP90042_Workshop_Week12.pdf](slides/COMP90042_Workshop_Week12.pdf)
 
 ## Notebooks
 
@@ -34,4 +35,4 @@ Week|Notebooks
 9|[WSTA_N15_hidden_markov_models.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N15_hidden_markov_models.ipynb)
 10|[WSTA_N17_context-free_grammars.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N17_context-free_grammars.ipynb)
 10|[WSTA_N18_probabilistic_parsing.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N18_probabilistic_parsing.ipynb)
-
+12|[WSTA_N21_machine_translation.ipynb](https://github.com/trevorcohn/comp90042/blob/gh-pages/notebooks/WSTA_N21_machine_translation.ipynb)
